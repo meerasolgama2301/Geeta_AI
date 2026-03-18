@@ -24,7 +24,7 @@ EMB_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 MODEL_DIR = "model_files"
 os.makedirs(MODEL_DIR, exist_ok=True)
 
-# ===== PUT YOUR REAL GOOGLE DRIVE FILE IDs HERE =====
+
 LORA_ZIP_URL = "https://drive.google.com/uc?id=1QD_-HgPjIn5UAP9fHc3s1FakKNn4v7Fo"
 FAISS_URL = "https://drive.google.com/uc?id=196G_UnNofhxpf3ak6VnSU47ockt11he4"
 CORPUS_URL = "https://drive.google.com/uc?id=1Fr2rLCjUBHFezKrmc6aXYPrjTvtYYtfY"
