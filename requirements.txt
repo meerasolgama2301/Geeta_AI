@@ -1,9 +1,9 @@
 streamlit
-torch
+torch==2.2.2
 transformers==4.40.1
 peft==0.10.0
 faiss-cpu==1.13.2
 sentence-transformers==2.7.0
 huggingface_hub==0.22.2
 gdown
-numpy
+numpy<2
