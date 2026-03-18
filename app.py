@@ -25,11 +25,6 @@ MODEL_DIR = "model_files"
 os.makedirs(MODEL_DIR, exist_ok=True)
 
 # ===== PUT YOUR REAL GOOGLE DRIVE FILE IDs HERE =====
-#LORA_ZIP_FILE_ID = "/content/drive/MyDrive/GEETA_AI_Model/geeta-tinyllama-lora/lora-adapter.zip"
-# FAISS_FILE_ID = "/content/drive/MyDrive/GEETA_AI_Model/geeta-tinyllama-lora/faiss.index"
-# CORPUS_FILE_ID = "/content/drive/MyDrive/GEETA_AI_Model/geeta-tinyllama-lora/rag_corpus.json"
-#RECORDS_FILE_ID = "/content/drive/MyDrive/GEETA_AI_Model/geeta-tinyllama-lora/geeta_records.json"
-
 LORA_ZIP_URL = "https://drive.google.com/uc?id=1QD_-HgPjIn5UAP9fHc3s1FakKNn4v7Fo"
 FAISS_URL = "https://drive.google.com/uc?id=196G_UnNofhxpf3ak6VnSU47ockt11he4"
 CORPUS_URL = "https://drive.google.com/uc?id=1Fr2rLCjUBHFezKrmc6aXYPrjTvtYYtfY"
