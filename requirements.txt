@@ -6,4 +6,4 @@ faiss-cpu==1.13.2
 sentence-transformers==2.7.0
 huggingface_hub==0.22.2
 gdown
-numpy<2
+numpy==1.26.4
