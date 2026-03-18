@@ -30,10 +30,10 @@ FAISS_FILE_ID = "/content/drive/MyDrive/GEETA_AI_Model/geeta-tinyllama-lora/fais
 CORPUS_FILE_ID = "/content/drive/MyDrive/GEETA_AI_Model/geeta-tinyllama-lora/rag_corpus.json"
 RECORDS_FILE_ID = "/content/drive/MyDrive/GEETA_AI_Model/geeta-tinyllama-lora/geeta_records.json"
 
-LORA_ZIP_URL = f"https://drive.google.com/file/d/1QD_-HgPjIn5UAP9fHc3s1FakKNn4v7Fo/view?usp=sharing"
-FAISS_URL = f"https://drive.google.com/file/d/196G_UnNofhxpf3ak6VnSU47ockt11he4/view?usp=sharing"
-CORPUS_URL = f"https://drive.google.com/file/d/1Fr2rLCjUBHFezKrmc6aXYPrjTvtYYtfY/view?usp=sharing"
-RECORDS_URL = f"https://drive.google.com/file/d/1T6BvMxfDt_ID-ZWowcGejnovADxQitey/view?usp=sharing"
+LORA_ZIP_URL = "https://drive.google.com/uc?id=1QD_-HgPjIn5UAP9fHc3s1FakKNn4v7Fo"
+FAISS_URL = "https://drive.google.com/uc?id=196G_UnNofhxpf3ak6VnSU47ockt11he4"
+CORPUS_URL = "https://drive.google.com/uc?id=1Fr2rLCjUBHFezKrmc6aXYPrjTvtYYtfY"
+RECORDS_URL = "https://drive.google.com/uc?id=1T6BvMxfDt_ID-ZWowcGejnovADxQitey"
 
 ADAPTER_PATH = os.path.join(MODEL_DIR, "lora-adapter")
 FAISS_PATH = os.path.join(MODEL_DIR, "faiss.index")
